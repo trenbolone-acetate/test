@@ -5,7 +5,7 @@ int main()
 {
 	int a, b, c, x;
 	double F;
-	cout << "GitHub connected to Visual Studio!!!" << endl;
+	cout << "working" << endl;
 	cout << "Input a: ";
 	cin >> a;
 	cout << "Input b: ";
