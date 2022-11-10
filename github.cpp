@@ -20,7 +20,7 @@ int main()
 	else if (c > 0 && x == 0) {
 		F = (static_cast<float>(x) - a) / -c;
 	}
-	//skibadibapumdada
+	//skibadibapumdada я не понимаю
 	else {
 		F = (b * x) / (c - a);
 	}
