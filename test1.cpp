@@ -2,5 +2,8 @@
 using namespace std;
 
 int main(){
-	cout << "Hello world!";
+	int second_commit;
+	cin >> second_commit;
+	cout << second_commit * 2;
+
 }
